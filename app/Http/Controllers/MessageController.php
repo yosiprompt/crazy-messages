@@ -15,7 +15,9 @@ class MessageController extends Controller
      */
     public function index()
     {
-        //
+        $messages = Message::paginate(15);
+
+        return view('message.list', compact('messages'));
     }
 
     /**
@@ -41,7 +43,7 @@ class MessageController extends Controller
 
         $message = Message::create($input);
         $message->save();
-        return redirect('dashboard');
+        return redirect(route('message.index'));
     }
 
     /**
