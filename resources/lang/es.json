@@ -1,0 +1,21 @@
+{
+    "Welcome to crazy town": "Bienvenido a esta locura.",
+	"Dashboard": "Tablero",
+	"Log in": "iniciar Sesion",
+	"Register": "Registrarse",
+	"Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.": "Laravel tiene una documentación maravillosa y completa que cubre todos los aspectos del Framework. Si eres nuevo en el Framework o tienes experiencia previa con Laravel, te recomendamos leer toda la documentación de principio a fin.",
+	"Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.": "Laracasts ofrece miles de tutoriales en video sobre programacon en Laravel, PHP y JavaScript. compruébelo usted mismo y aumente de manera masiva sus habilidades de desarrollo en el proceso.",
+	"Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.": "Laravel News es un portal y un boletín informativo impulsado por la comunidad que reúne todas las noticias más recientes y más importantes del ecosistema de Laravel, incluidos los nuevos lanzamientos de paquetes y tutoriales.",
+	"Laravel's robust library of first-party tools and libraries, such as ": "La solida biblioteca de Laravel de herramientas y librerias,tales como ",
+	" and ":" y ",
+	"help you take your projects to the next level. Pair them with powerful open source libraries like ": "le ayuda a llevar sus proyectos al siguiente nivel. Combínalos con potentes librerias de código abierto como ",
+	" and more.": " y mas.",
+	"Shop": "Tienda",
+	"Sponsor": "Patrocinar",
+	"Log out": "Cerrar Sesion",
+	"Create Message": "Crear Mensaje",
+	"Show Messages": "Mostrar Mensaje",
+	"List of Crazy Messages": "Lista de Mensajes Locos",
+	"Messages": "Mensajes",
+	"Welcome": "Bienvenido"
+}
