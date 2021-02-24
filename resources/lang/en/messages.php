@@ -3,5 +3,6 @@
 // resources/lang/es/messages.php
 
 return [
-    'welcome' => 'Welcome to crazy town',
+    'welcome' => 'Welcome',
+    'Messages' => 'Messages'
 ];

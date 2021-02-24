@@ -22,13 +22,7 @@
     </head>
     <body class="antialiased">
         <h1>{{  __('Welcome to crazy town') }}</h1>
-		<li class="nav-item">
-			<select id="language" class="form-control rounded-0" name="language">
-				@foreach(array_values(config('locale.languages')) as $language)
-				<option value="{{$language[0]}}" @if ($language[0]===App::getLocale()) selected @endif>{{ $language[3]}}</option>
-				@endforeach
-			</select>
-		</li>
+		
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
